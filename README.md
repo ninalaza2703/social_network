@@ -11,7 +11,7 @@ Basic ETL using PYTHON and SQL
 ## Usage
 
 ```python
-import foobar
+Preparation and Usage
 
 # db_config.cfg
 necessary database credentials for logging into the database
