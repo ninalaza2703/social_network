@@ -10,7 +10,6 @@ Basic ETL using PYTHON and SQL
 
 ## Preparation and Usage
 
-```python
 
 # db_config.cfg
 necessary database credentials for logging into the database
