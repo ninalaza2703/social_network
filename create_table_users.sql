@@ -1,5 +1,5 @@
-DROP TABLE users CASCADE;
-
+--DROP TABLE users CASCADE;
+--dropping if needed
 --DROP TABLE IF EXISTS users;
 CREATE TABLE users (
     id integer PRIMARY KEY,
