@@ -3,7 +3,6 @@ import pandas as pd
 import os
 
 
-
 def execute_sql_script_2(script_paths, connection_params):
     for script_path in script_paths:
         execute_sql_script_1(script_path, connection_params)
