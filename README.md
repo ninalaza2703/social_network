@@ -19,8 +19,9 @@ Place the CSV data files in the 'raw_data' folder
 
 **'queries' folder**
 Place the SQL scripts in the 'queries' folder
-```
+
 ## Project Structure and Description
+
 - 'raw_data' - contains the raw CSV data files.
 - 'queries' - contains SQL scripts for creating the database, tables and inserting data.
 - 'config.py' - stores project configurations.
