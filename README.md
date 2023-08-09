@@ -11,13 +11,13 @@ Basic ETL using PYTHON and SQL
 ## Preparation and Usage
 
 
-# db_config.cfg
+**db_config.cfg**
 necessary database credentials for logging into the database
 
-# 'raw_data' folder
+**'raw_data' folder**
 Place the CSV data files in the 'raw_data' folder
 
-# 'queries' folder
+**'queries' folder**
 Place the SQL scripts in the 'queries' folder
 ```
 ## Project Structure and Description
