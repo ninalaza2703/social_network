@@ -8,10 +8,9 @@ Basic ETL using PYTHON and SQL
 - PostgreSQL
 - Pip (Python package manager)
 
-## Usage
+## Preparation and Usage
 
 ```python
-Preparation and Usage
 
 # db_config.cfg
 necessary database credentials for logging into the database
